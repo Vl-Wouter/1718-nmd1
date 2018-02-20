@@ -1,7 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Raleway|Nanum+Brush+Script');
 
 body {
     background-color:  #eaebed;
     font-family: "Raleway", sans-serif;
     text-align: center;
+}
+
+p {
+    font-family: "Nanum Brush Script";
 }
